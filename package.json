@@ -1,0 +1,24 @@
+{
+  "name": "comment-bot",
+  "version": "1.0.0",
+  "description": "Setup a reddit comment bot quick!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reddit",
+    "bot",
+    "api",
+    "subreddit",
+    "comment",
+    "21x37"
+  ],
+  "author": "Tyler Mok",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "snoostorm": "^0.0.5",
+    "snoowrap": "^1.14.1"
+  }
+}
