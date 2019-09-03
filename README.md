@@ -11,6 +11,9 @@ npm install comment-bot
 ```
 
 ## Usage
+
+Create an app on reddit, and use the unique keys in creds.
+
 ```js
 const commentBot = require('comment-bot');
 
