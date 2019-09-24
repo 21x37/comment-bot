@@ -1,7 +1,6 @@
 const Snoowrap = require('snoowrap');
 const Snoostorm = require('snoostorm');
 
-
 class commentBot {
     constructor(creds) {
         this.creds = creds;
